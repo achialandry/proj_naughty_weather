@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Naughty Weather</string>
+    <string name="default_location">Searching....</string>
+    <string name="default_temp_deg">n/a</string>
+    <string name="default_temp_fahr">n/a</string>
+    <string name="change_city_description">Click to Change City</string>
+    <string name="weather_description">This is the weather symbol</string>
+    <string name="back_button_description">Dismiss Change City Screen</string>
+    <string name="get_weather">Change City</string>
+    <string name="default_query">Enter city name</string>
+    <string name="weather_icon_details">Weather details</string>
+
+</resources>
